@@ -1,4 +1,4 @@
-# 🌊 D-POAF® Starter — Governed AI-Native SDLC in 1 Click
+# 🌊 D-POAF® Starter - Governed AI-Native SDLC in 1 Click
 
 > **Start a new GitHub repo with full D-POAF® governance pre-installed.**
 > Drop-in Issue forms, PR template, and the complete Starter Kit.
@@ -32,10 +32,10 @@ That's it. Your repo now has governance for AI-enabled software delivery built i
 
 ## 📚 Read the framework
 
-- 🌐 **Website** — [d-poaf.org](https://d-poaf.org)
-- 📖 **Practical Guide** — [d-poaf.org/resources](https://d-poaf.org/resources/) (~15 min read)
-- 🧰 **Full Starter Kit** — [github.com/INOVIONIX/D-POAF/tree/main/kit](https://github.com/INOVIONIX/D-POAF/tree/main/kit)
-- 💬 **Community** — [Discord](https://discord.gg/DMZMeHxzNd)
+- 🌐 **Website:** [d-poaf.org](https://d-poaf.org)
+- 📖 **Practical Guide:** [d-poaf.org/resources](https://d-poaf.org/resources/) (~15 min read)
+- 🧰 **Full Starter Kit:** [github.com/INOVIONIX/D-POAF/tree/main/kit](https://github.com/INOVIONIX/D-POAF/tree/main/kit)
+- 💬 **Community:** [Discord](https://discord.gg/DMZMeHxzNd)
 
 ---
 
