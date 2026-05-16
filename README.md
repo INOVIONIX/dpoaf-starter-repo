@@ -1,4 +1,4 @@
-# 🌊 D-POAF® Starter — Governed AI-Native SDLC in 1 Click
+# 🌊 D-POAF® Starter - Governed AI-Native SDLC in 1 Click
 
 > **Start a new GitHub repo with full D-POAF® governance pre-installed.**
 > Drop-in Issue forms, PR template, and the complete Starter Kit.
