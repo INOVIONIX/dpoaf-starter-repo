@@ -1,4 +1,4 @@
-# 📖 D-POAF® — Workflow Guide
+# 📖 D-POAF® - Workflow Guide
 
 A practical walkthrough of how a real engineering team uses the D-POAF® Starter Kit on GitHub — from `git clone` to a closed Wave with full Traceability Thread.
 
